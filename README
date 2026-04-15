@@ -6,13 +6,6 @@ HUONG DAN CHAY DU AN
 - Mo terminal, di chuyen vao thu muc backend:
   cd backend
 
-- Tao moi truong ao (tuy chon):
-  python -m venv venv
-
-- Kich hoat moi truong ao:
-  Windows: venv\Scripts\activate
-  macOS/Linux: source venv/bin/activate
-
 - Cai dat thu vien:
   pip install -r requirements.txt
 
